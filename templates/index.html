@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Feed</title>
+</head>
+<body>
+    <h1>Feed</h1>
+
+    <h2>What's on your mind?</h2>
+    <form method="POST">
+        <input type="text" id="content" name="content" required>
+        <button type="submit">Submit</button>
+    </form>
+
+    <h2>Thoughts of the day...</h2>
+    <ul>
+        {% for post in posts %}
+            <li>{{ post['content'] }}</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
