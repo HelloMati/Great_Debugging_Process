@@ -748,3 +748,111 @@ Port 8080 is in use by another program. Either identify and stop that program, o
  * Debugger is active!
  * Debugger PIN: 126-183-993
 127.0.0.1 - - [22/Feb/2024 17:08:29] "[31m[1mGET / HTTP/1.1[0m" 405 -
+@@__xproc_block_delimiter__@@
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8080
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 126-183-993
+127.0.0.1 - - [23/Feb/2024 12:53:05] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [23/Feb/2024 12:53:05] "POST / HTTP/1.1" 200 -
+@@__xproc_block_delimiter__@@
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8080
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 126-183-993
+127.0.0.1 - - [23/Feb/2024 12:55:49] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [23/Feb/2024 12:55:49] "[32mPOST / HTTP/1.1[0m" 302 -
+127.0.0.1 - - [23/Feb/2024 12:55:49] "[33mGET /index HTTP/1.1[0m" 404 -
+@@__xproc_block_delimiter__@@
+@@__xproc_block_delimiter__@@
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8080
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 126-183-993
+127.0.0.1 - - [23/Feb/2024 12:56:45] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [23/Feb/2024 12:56:45] "[32mPOST / HTTP/1.1[0m" 302 -
+127.0.0.1 - - [23/Feb/2024 12:56:45] "[33mGET /index HTTP/1.1[0m" 404 -
+@@__xproc_block_delimiter__@@
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8080
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 126-183-993
+127.0.0.1 - - [23/Feb/2024 12:56:48] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [23/Feb/2024 12:56:48] "[32mPOST / HTTP/1.1[0m" 302 -
+127.0.0.1 - - [23/Feb/2024 12:56:48] "[33mGET /index HTTP/1.1[0m" 404 -
+@@__xproc_block_delimiter__@@
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8080
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 126-183-993
+127.0.0.1 - - [23/Feb/2024 12:57:46] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [23/Feb/2024 12:57:46] "[32mPOST / HTTP/1.1[0m" 302 -
+127.0.0.1 - - [23/Feb/2024 12:57:46] "[33mGET /index HTTP/1.1[0m" 404 -
+@@__xproc_block_delimiter__@@
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8080
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 126-183-993
+127.0.0.1 - - [23/Feb/2024 12:59:19] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [23/Feb/2024 12:59:19] "[32mPOST / HTTP/1.1[0m" 302 -
+127.0.0.1 - - [23/Feb/2024 12:59:19] "[33mGET /index HTTP/1.1[0m" 404 -
+@@__xproc_block_delimiter__@@
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8080
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 126-183-993
+127.0.0.1 - - [23/Feb/2024 13:00:44] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [23/Feb/2024 13:00:44] "[32mPOST / HTTP/1.1[0m" 302 -
+127.0.0.1 - - [23/Feb/2024 13:00:44] "[33mGET /index HTTP/1.1[0m" 404 -
+@@__xproc_block_delimiter__@@
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8080
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 126-183-993
+127.0.0.1 - - [23/Feb/2024 13:01:30] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [23/Feb/2024 13:01:30] "[32mPOST / HTTP/1.1[0m" 302 -
+127.0.0.1 - - [23/Feb/2024 13:01:30] "[33mGET /index HTTP/1.1[0m" 404 -
+@@__xproc_block_delimiter__@@
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8080
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 126-183-993
+127.0.0.1 - - [23/Feb/2024 13:02:01] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [23/Feb/2024 13:02:01] "[32mPOST / HTTP/1.1[0m" 302 -
+127.0.0.1 - - [23/Feb/2024 13:02:01] "GET / HTTP/1.1" 200 -
